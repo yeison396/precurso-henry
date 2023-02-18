@@ -1,2 +1,1 @@
-# precurso-henry
-repositorio modulo 2 
+proyecto de como crearun repositorio y clonarlo ami escritosio local
